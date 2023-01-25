@@ -1,11 +1,11 @@
-/* Import the "Poppins" font */
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
 
 body {
   font-family: 'Poppins', sans-serif;
 }
 
-/* All elements with the class of inline-block */
+
 .inline-block {
   display: inline-block;
   vertical-align: top;
@@ -16,7 +16,7 @@ body {
   color: #ffffff;
   padding: 10px 20px;
 }
-/* The logo element */
+
 .logo {
   width: 23%;
   padding: 1%;
@@ -35,7 +35,6 @@ body {
   }
 
 
-/* The nav element */
 
 nav {
 vertical-align: top;
@@ -58,7 +57,7 @@ vertical-align: top;
   text-align: center;
   width: 25%;
 }
-/* The unordered list inside the nav element */
+
 nav ul {
   width: 50%;
   margin-left: auto;
@@ -84,9 +83,6 @@ footer {
     font-weight: 400;
   }
 
-
-
-/* The hero-image section */
 .hero-image {
   height: 600px;
   padding: 25px;
@@ -104,7 +100,7 @@ footer {
   background-color: #FF4E6D;
 }
 
-/* The content section inside the hero-image */
+
 .content {
   position: absolute;
   top: 50%;
